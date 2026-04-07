@@ -1,1 +1,1 @@
-# customerchurnpred
+# customer_churn_pred
